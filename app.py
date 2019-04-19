@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from redis import Redis, RedisError
 import os
 import socket
